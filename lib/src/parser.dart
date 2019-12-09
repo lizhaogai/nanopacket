@@ -1,6 +1,6 @@
 import 'package:events2/events2.dart';
-import 'package:nanopacket_dart/src/packet.dart';
-import 'package:nanopacket_dart/src/constants.dart';
+import 'package:nanopacket/src/packet.dart';
+import 'package:nanopacket/src/constants.dart';
 import 'package:typed_data/typed_buffers.dart';
 
 class Parser extends EventEmitter {

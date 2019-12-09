@@ -1,4 +1,4 @@
-import 'package:nanopacket_dart/nanopacket.dart';
+import 'package:nanopacket/nanopacket.dart';
 import '../example/make_data.dart';
 import 'package:typed_data/typed_buffers.dart';
 

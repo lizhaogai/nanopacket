@@ -1,7 +1,7 @@
 /// Support for doing something awesome.
 ///
 /// More dartdocs go here.
-library nanopacket_dart;
+library nanopacket;
 
 export 'src/constants.dart';
 export 'src/packet.dart';

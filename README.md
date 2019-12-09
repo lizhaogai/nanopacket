@@ -8,7 +8,7 @@ Created from templates made available by Stagehand under a BSD-style
 A simple usage example:
 
 ```dart
-import 'package:nanopacket_dart/nanopacket_dart.dart';
+import 'package:nanopacket/nanopacket.dart';
 
 main() {
   var awesome = new Awesome();
