@@ -117,7 +117,16 @@ class Parser extends EventEmitter {
     if (header_size > list.length) {
       return false;
     }
-    packet.header = list.sublist(0, header_size);
+//    var subHeader = list.sublist(0, header_size);
+//    var headBuffer = Uint8Buffer();
+//    headBuffer.addAll(subHeader);
+//    packet.header = headBuffer;
+
+
+    Uint8List headList = Uint8List.fromList(list.sublist(0, header_size));
+    var headBuffer = Uint8Buffer();
+    headBuffer.addAll(headList);
+    packet.header = headBuffer;
 
     var sub = list.sublist(header_size, list.length);
     list = Uint8Buffer();
