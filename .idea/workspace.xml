@@ -20,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/src/parser.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="121" column="2" selection-start-line="121" selection-start-column="2" selection-end-line="124" selection-end-column="31" />
+            <state relative-caret-position="199">
+              <caret line="122" column="31" selection-start-line="122" selection-start-column="31" selection-end-line="122" selection-end-column="31" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
               </folding>
@@ -204,8 +204,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/src/parser.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="121" column="2" selection-start-line="121" selection-start-column="2" selection-end-line="124" selection-end-column="31" />
+        <state relative-caret-position="199">
+          <caret line="122" column="31" selection-start-line="122" selection-start-column="31" selection-end-line="122" selection-end-column="31" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
           </folding>
